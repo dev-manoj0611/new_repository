@@ -2,6 +2,10 @@ class A
 {
 public static void main(String[] args)
 {
-System.out.println("from class A edited for the second time in original folder developer1");
+<<<<<<< HEAD
+System.out.println("from class A edited for the second time in original folder developer1 pulled and pushing");
+=======
+System.out.println("from class A modified first time");
+>>>>>>> b512377a829c924c6b53b7e686a0a854be5f8dab
 }
 }
