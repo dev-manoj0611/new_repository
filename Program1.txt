@@ -2,6 +2,6 @@ class A
 {
 public static void main(String[] args)
 {
-System.out.println("from class A");
+System.out.println("from class A edited for the second time in original folder developer1");
 }
 }
